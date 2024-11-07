@@ -32,7 +32,6 @@ times before. You can instead go straight to work building your brand and making
 
 ![-----------------------------------------------------](https://storage.googleapis.com/bigcommerce-developers/images/catalyst_readme_hr.png)
 
-
 ## Deploy on Vercel
 
 The easiest way to deploy your Catalyst Storefront is to use the [Vercel Platform](https://vercel.com/new) from the creators of Next.js.
@@ -86,3 +85,5 @@ Learn more about Catalyst at [catalyst.dev](https://catalyst.dev).
 > [!IMPORTANT]
 > If you just want to build a storefront, start with the [CLI](#quickstart) which will install the Next.js application in [/core](/core/).
 > If you wish to contribute back to Catalyst or create a fork of Catalyst, you can check the [docs for this monorepo](https://catalyst.dev/docs/monorepo) to get started.
+
+aaaaa
